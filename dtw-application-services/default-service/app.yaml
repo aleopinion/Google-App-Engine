@@ -1,0 +1,3 @@
+runtime: python39
+# Default GAE App services would not have this service name declaration
+# No name is given because it is the default. It will automatically assume the default service 
